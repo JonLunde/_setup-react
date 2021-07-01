@@ -1,6 +1,7 @@
-# Setup for React with Typescript
+# Setup for React
 
 * ESLint(AirBNB) + Prettier
+* Babel
 * Webpack
   * webpack-dev-server
   * html-webpack-plugin
